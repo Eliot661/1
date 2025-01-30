@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/CadManApp">
+<file alias="main.qml">C:/Users/User/Documents/CadManApp/main.qml</file>
+</qresource>
+</RCC>
